@@ -1,0 +1,15 @@
+---
+title: "Mitigation: Reducing Our Footprint"
+---
+
+[cite_start]Goal: To achieve carbon neutrality in all facilities and operations by 2030.
+
+### Essential Audits
+- [Energy Audit](energy-audit.qmd)
+- [Water Audit](water-audit.qmd)
+- [Waste Audit](waste-audit.qmd)
+
+### Easy Wins (Under $500)
+- [cite_start]**Lighting:** Replace all bulbs with LEDs.
+- [cite_start]**Leak Detection:** Test toilets every 6 months.
+- [cite_start]**Hospitality:** Use ceramic mugs instead of plastic.

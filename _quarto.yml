@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: "Creation Care Task Force"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "Core Areas"
+        menu:
+          - mitigation.qmd
+          - adaptation.qmd
+          - formation.qmd
+      - text: "Resilience Guides"
+        menu:
+          - basics.qmd
+          - heat.qmd
+          - cold.qmd
+          - flooding-drainage.qmd
+          - wind.qmd
+          - hail.qmd
+          - wildfire-smoke.qmd
+          - power-outages.qmd
+          - lightning.qmd
+      - text: "Technical Tools"
+        menu:
+          - energy-audit.qmd
+          - water-audit.qmd
+          - waste-audit.qmd
+          - toilets-faucets.qmd
+          - landscaping.qmd
+          - sustainable-hospitality.qmd
+          - sandbag-technique.qmd
+      - href: stories.qmd
+        text: Stories
+      - href: liturgy-for-planting.qmd
+        text: Liturgy
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
