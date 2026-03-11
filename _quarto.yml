@@ -1,6 +1,7 @@
 project:
   type: website
-
+execute:
+  freeze: auto
 website:
   title: "Creation Care Task Force"
   navbar:
