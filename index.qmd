@@ -26,14 +26,14 @@ and **Formation**.
 change by shrinking our environmental footprint. This includes practical steps
 to lower energy consumption, conserve water, and move toward zero-waste
 communities.
-|     *Goal: To be better stewards of the resources we use daily.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Goal: To be better stewards of the resources we use daily.*
 
 ### [Adaptation](adaptation.qmd)
 **Building resilience.** While we work to slow climate change, we must also
 prepare for its effects. Adaptation involves taking proactive measures to reduce
 our vulnerability to climate-related challenges and ensuring our congregations
 remain safe, prepared, and resilient.
-|     *Goal: To protect our people and our properties in a shifting climate.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Goal: To protect our people and our properties in a shifting climate.*
 
 ### [Formation](formation.qmd)
 **Re-imagining our relationship with Earth.** Meaningful change involves
@@ -41,7 +41,7 @@ emotion, thought, and action. We seek to engage all three as our community
 consciously considers our relationship with all of God’s Creation, moving away
 from a mindset of domination and toward acts of loving and responsible
 stewardship.
-|     *Goal: To honor the Creator by loving and protecting every aspect of God’s creation.*
+&nbsp;&nbsp;&nbsp;&nbsp;*Goal: To honor the Creator by loving and protecting every aspect of God’s creation.*
 
 ***
 
@@ -50,6 +50,7 @@ stewardship.
 *[Zero Waste Church](https://www.zerowastechurch.org/): A North Carolina
 Episcopal Church with a website filled with potential projects for reducing
 waste.
+
 *[Keep Texas Beautiful](https://ktb.org/): An organization dedicated to litter
 cleanup, with guides for group activities and other resources.
 
