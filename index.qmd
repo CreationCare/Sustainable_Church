@@ -2,7 +2,7 @@
 title: "From Vision to Action"
 ---
 
-![Banner image](images/Label2.png)
+![](images/Label2.png)
 
 <!-- title-block-banner: images/Label2.png -->
 ## The Creation Care and Sustainable Church Task Force

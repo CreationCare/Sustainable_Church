@@ -1,15 +1,102 @@
 ---
-title: "Mitigation: Reducing Our Footprint"
+title: "Mitigation"
+format: html
 ---
 
-[cite_start]Goal: To achieve carbon neutrality in all facilities and operations by 2030.
+# 🌿 Mitigation: Reducing Our Footprint 
 
-### Essential Audits
-- [Energy Audit](energy-audit.qmd)
-- [Water Audit](water-audit.qmd)
-- [Waste Audit](waste-audit.qmd)
+Goal: To achieve carbon neutrality in all facilities and operations by 2035,
+serving as a faithful example of environmental stewardship for our communities. 
 
-### Easy Wins (Under $500)
-- [cite_start]**Lighting:** Replace all bulbs with LEDs.
-- [cite_start]**Leak Detection:** Test toilets every 6 months.
-- [cite_start]**Hospitality:** Use ceramic mugs instead of plastic.
+-----
+
+## 📉 Our Commitment 
+
+In July 2022, The Episcopal Church’s General Convention committed the entire
+church to reaching carbon neutrality by 2030.  While the direct impact of a
+single congregation may seem small, our actions stand as vital examples that can
+inspire others to join in the work of healing God's creation. 
+
+-----
+
+## 🔍 1. Discovery & Analysis (The Audit Phase) 
+
+Before jumping into major projects like solar panels, it is vital to first
+understand your building's current performance.  Simple, low-cost solutions
+identified through audits often yield the highest immediate impact. 
+
+### Essential Audits 
+
+  - **Energy Audit:** Perform a professional energy audit to identify where heat
+  is escaping and where electrical loads can be reduced. 
+  - **Water Audit:** Conduct a full water audit to find hidden leaks and inefficient fixtures. 
+  - **Waste Audit:** Identify opportunities to reduce landfill waste through
+  composting, recycling, and eliminating single-use plastics. 
+
+-----
+
+## 🟢 2. Accessible Improvements (Under $500) 
+
+These "easy wins" can be implemented quickly and often pay for themselves within
+months. 
+
+  - **Lighting Retrofits:** Replace all CFL or incandescent bulbs with LEDs.
+  This can lower lighting electricity usage by 40%, and the bulbs last twice as
+  long. (Be sure to use [Energy
+  Star](https://www.energystar.gov/ia/partners/publications/pubdocs/ENERGY%20STAR%20Lighting%20Brochure_508.pdf?94ed-58b5)
+  certified bulbs) 
+  - **Landscape Maintenance:** Replace two-stroke, gasoline, and diesel
+  landscaping maintenance equipment with electric equipment, or engage
+  contractors using electric equipment. 
+  - **Leak Detection:** Test all toilets for leaks every 6 months.  A single
+  leaking toilet can cost up to $50 per month in wasted water. 
+  - **Watering Systems:** Adjust irrigation to only spray where needed and plant
+  native trees to reduce the long-term need for watering. 
+  - **Sustainable Hospitality:** Encourage parishioners to contribute ceramic
+  coffee mugs to replace single-use plastic cups. 
+  - **Efficiency Upgrades:** Replace failed dishwashers with Energy Star models. 
+  - Install high-efficiency lavatory faucet aerators (.5 to 1.0 GPM). 
+  - Insulate all hot water lines with R-3 or higher insulation. 
+
+-----
+
+## 🟡 3. Moderate Investments (Under $5,000) 
+
+These projects require more planning but offer significant long-term savings. 
+
+  - **Smart Climate Control:** Install smart or programmable thermostats to
+  optimize heating and cooling. 
+  - **Building Envelope:** Seal or replace leaky ductwork and add ceiling
+  insulation where needed. 
+  - **Mechanical Upgrades:** Replace aging water heaters with high-efficiency
+  heat pump models. 
+  - **[Fixture
+  Upgrades:](https://19january2017snapshot.epa.gov/www3/watersense/products/toilets.html)**
+  Replace standard toilets with low-flow models, upgrade faucets. 
+  - **Resilient Landscaping:** Transition to xeriscaping with native plants that
+  can survive drought without supplemental watering. 
+
+-----
+
+## 🔴 4. Long-Term Hardening (Over $5,000) 
+
+These "hard" projects represent deep shifts in how your facility interacts with
+the environment. 
+
+  - **HVAC Modernization:** Replace end-of-life heating and cooling systems with
+  the highest-efficiency equipment available. 
+  - **Renewable Energy:** Install a solar array to generate clean power on-site. 
+  - **Water Stewardship:** Install rainwater cisterns or graywater systems for
+  landscape needs. 
+  - **Clean Transportation:** Install EV charging stations to support the
+  transition to electric vehicles for staff and parishioners. 
+
+-----
+
+### Resource Links From the Previous Task Force 
+
+  - [Environmental Footprint
+  Document](https://docs.google.com/document/d/1Z0qLzEvj7cUKxxyJ3ATSoeX4pq3j1nqBDojJ0iHTp8Q/edit?usp=sharing)
+  
+  - [Mitigation Project
+  Grid](https://docs.google.com/spreadsheets/d/1fVLTtoHHzNdOsxTOL1hWNGP4EMiWZlFcK_ybGEBu5o0)
