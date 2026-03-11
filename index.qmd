@@ -1,8 +1,10 @@
 ---
 title: "From Vision to Action"
-title-block-banner: images/Label2.png
 ---
 
+![Banner image](images/Label2.png)
+
+<!-- title-block-banner: images/Label2.png -->
 ## The Creation Care and Sustainable Church Task Force
 
 Building on the foundation laid by the 2022–2024 [Creation Care Task
