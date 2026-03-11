@@ -21,7 +21,7 @@ both successes and failures to all our congregations.
 We focus our efforts in three vital areas: **Mitigation**, **Adaptation**, 
 and **Formation**.
 
-### [Mitigation](mitigation.qmd)
+### [Mitigation](mitigation.html)
 **Lowering our impact.** Mitigation is about slowing the progress of climate
 change by shrinking our environmental footprint. This includes practical steps
 to lower energy consumption, conserve water, and move toward zero-waste
@@ -29,7 +29,7 @@ communities.
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Goal: To be better stewards of the resources we use daily.*
 
-### [Adaptation](adaptation.qmd)
+### [Adaptation](adaptation.html)
 **Building resilience.** While we work to slow climate change, we must also
 prepare for its effects. Adaptation involves taking proactive measures to reduce
 our vulnerability to climate-related challenges and ensuring our congregations
@@ -37,7 +37,7 @@ remain safe, prepared, and resilient.
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Goal: To protect our people and our properties in a shifting climate.*
 
-### [Formation](formation.qmd)
+### [Formation](formation.html)
 **Re-imagining our relationship with Earth.** Meaningful change involves
 emotion, thought, and action. We seek to engage all three as our community
 consciously considers our relationship with all of God’s Creation, moving away
