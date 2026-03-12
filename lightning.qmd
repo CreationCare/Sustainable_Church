@@ -1,0 +1,57 @@
+---
+title: "Lightning & Surge Resilience"
+format: html
+---
+
+# ⚡ Lightning & Surge Resilience: Protecting People & Systems
+
+Goal: To protect essential equipment—including sound systems, organs, and computers—from electrical spikes and to ensure the safety of all individuals on church grounds.
+
+-----
+
+## ⛈️ Regional Risk Assessment
+
+Lightning poses a high to very high risk throughout the diocese. Because of this significant threat, we have categorized protection measures into a clear hierarchy of implementation.
+
+-----
+
+## 🔴 1. Critical Actions
+
+These measures are required for everyone to ensure life safety and core structural protection.
+
+### Structural & Procedural Hardening (Once)
+
+  - **Lightning Protection Systems:** Make certain that all buildings, especially those with high steeples, have professionally installed lightning rods (air terminals) that are properly grounded to the earth.
+  - **Safety Literacy:** Ensure that all staff members are fully aware of lightning safety procedures.
+
+### Ongoing Training (Annually)
+
+  - **Safety Review:** Formally remind all staff of lightning safety procedures, with a specific focus on safety during outdoor activities and community events. Outdoor summer activities should always have a “plan B” in case lightning threatens.
+
+-----
+
+## 🟡 2. Recommended Protection
+
+These measures provide a significant layer of defense for the church's digital and financial assets.
+
+### Technical Safeguards (Once)
+
+  - **Point-of-Use Protection:** Surge protectors are highly recommended for all computers, sound boards, projectors, servers, and other sensitive electronics. Use high-joule strips for maximum defense.
+  - **Whole-Building Surge Protection:** Install a Type 1 or Type 2 surge protector at the main electrical panel to intercept high-voltage spikes before they enter the building's internal circuits.
+  - **Data Stewardship:** Utilize cloud-based backups for all church records. This ensures that a direct strike to an office computer does not result in the total loss of irreplaceable historical or financial data.
+
+-----
+
+## 🟢 3. Advanced Resilience
+
+For enhanced situational awareness during outdoor services or regional events.
+
+### Early Warning (Once)
+
+  - **Detection Technology:** Consider purchasing a handheld lightning detector to provide real-time alerts for incoming storms, allowing for earlier and safer evacuations of outdoor gatherings.
+
+-----
+
+### Implementation Tip
+
+When installing lightning rods or whole-building surge protection, always use a licensed electrician or a certified lightning protection specialist to ensure the system meets modern safety codes.
