@@ -1,0 +1,55 @@
+---
+title: "Power Outages"
+format: html
+---
+
+# ⚡ Power Outage Resilience
+
+Goal: To maintain essential life-safety systems, preserve food pantry refrigeration, and provide a reliable "charging station" and refuge for neighbors when the local grid fails.
+
+-----
+
+## 1. Electrical Infrastructure & Hardware
+
+Hardening your electrical system ensures that backup power can be used safely and efficiently.
+
+  - **Critical Circuit Identification:** Audit your electrical panel. Use permanent labels to identify "Life Safety" and "Mission Critical" circuits.
+  - **Examples:** Emergency lighting, sump pumps, food pantry refrigerators/freezers, and HVAC blowers.
+  - **Transfer Switch Installation:** This is a safety requirement. Install a manual or automatic transfer switch to allow a generator to be safely connected to the building's wiring without "backfeeding" into the utility grid, which protects line workers.
+  - **LED Retrofitting:** Replace all high-draw incandescent or fluorescent lighting with LEDs. This significantly lowers the total electrical "load," allowing a smaller, less expensive generator or battery to power more of the building.
+  - **Backup Power Options:**
+    - **Generators:** Choose between portable or permanent standby units.
+    - **Solar + Battery Storage:** Evaluate a solar array paired with battery backup. This can provide indefinite power for small loads (office, cell-charging) during the day and can reduce monthly utility bills.
+
+-----
+
+## 2. Fuel & Energy Stewardship
+
+If you rely on a generator, your "run time" is only as good as your fuel supply.
+
+  - **Fuel Strategy:** - **Propane (LPG):** If possible, prioritize propane. It does not degrade over time like gasoline and is safer to store long-term.
+    - **Gasoline/Diesel:** If using liquid fuels, establish a strict rotation plan. Use high-quality fuel stabilizers to prevent engine clogs.
+  - **Passive Resilience:** During a power outage, keep refrigerators and freezers closed. A full freezer can keep food safe for 48 hours if the door remains sealed.
+
+-----
+
+## 3. Community Care & "The Refuge" Model
+
+A church’s greatest asset in a blackout is its ability to provide a sense of normalcy and safety to the neighborhood.
+
+  - **The "Charging Station" Protocol:** Designate an area (such as the Fellowship Hall) with accessible power strips. Advertise this as a community resource for charging phones and medical devices.
+  - **Medically Vulnerable Outreach:**
+    - **Identification:** Develop a specific plan for congregants who are medically vulnerable (e.g., those using oxygen concentrators or refrigerated medication).
+    - **Refuge Status:** Prepare to volunteer the church property as a formal refuge if the facility retains power (via generator or solar) while the surrounding community is in the dark.
+
+-----
+
+## 4. Maintenance & Annual Tasks
+
+Backup systems are prone to "shelf failure" if not tested regularly.
+
+### Annual Checklist
+
+  - [ ] **Medical Registry Update:** Update the confidential list of parishioners who require electricity for medical reasons to ensure they are checked on first.
+  - [ ] **Load Test:** Run the generator under a "full load" (powering the actual circuits it’s intended for) for at least 30 minutes.
+  - [ ] **Fuel Quality:** Drain and replace any gasoline that is more than 6–12 months old, even if treated with stabilizer.
