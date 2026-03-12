@@ -1,0 +1,66 @@
+---
+title: "Extreme Heat Resilience"
+format: html
+---
+
+# ☀️ Extreme Heat Resilience
+
+Goal: To protect parishioners from heat-related illness, maintain facility efficiency, and provide a refuge for the vulnerable during prolonged high-heat events.
+
+-----
+
+## 📈 The Regional Reality
+
+Heat waves cause more fatalities each year than any other weather-related event.
+
+  - **Texas vs. Europe:** In 2022, the European heat wave resulted in approximately 62,000 deaths, while Texas saw at least 306. The difference is largely attributed to the near-universality of air conditioning in Texas—making the reliability of our A/C systems a matter of life and death.
+
+-----
+
+## 🛑 1. Critical Actions
+
+Essential steps to ensure the facility remains functional and safe.
+
+### Structural Upgrades (Once)
+
+  - **Intelligent Thermostats:** Install smart or programmable thermostats to manage cooling cycles efficiently and reduce strain on the grid.
+  - **Efficiency Note:** Energy used for cooling increases as the square of the temperature difference. To cool a facility down to 80℉ when the outside temperature is 100℉ costs four times as much as when the outside temperature is 90℉.
+
+### Essential Maintenance (Annually)
+
+  - **A/C System Audit:** Perform professional annual maintenance on all air conditioning units before the summer peak to ensure they can handle sustained high-load operation.
+
+-----
+
+## ⚠️ 2. Recommended Protection
+
+Measures to improve energy efficiency and protect the most vulnerable.
+
+### Efficiency & Insulation (Once)
+
+  - **Window Management:** Cover windows with drapes, shades, or specific heat-reflecting window films to block solar gain.
+  - **Building Envelope:** Weather-strip all doors and windows and add insulation to keep heat out and cool air in.
+  - **Ventilation:** Use powered attic ventilators or fans to clear hot air from the building’s attic.
+  - **Audit:** Have a professional energy audit performed to identify "leaks" in the building’s efficiency.
+
+### Operational Readiness (Annually)
+
+  - **Vulnerable Registry:** Update the list of parishioners who live without A/C, focusing specifically on the elderly or infirm.
+  - **Activity Adjustment:** Establish a policy to curtail all outside church activity, including landscape maintenance, during heat alerts.
+
+-----
+
+## ✨ 3. Community Leadership
+
+Advanced strategies for long-term resilience and neighborhood support.
+
+### Hardening the Property (Once)
+
+  - **Reflective Surfaces:** Use heat-reflective shingles when replacing the roof or explore "cool pavement" options for the parking lot to reduce the heat-island effect.
+  - **The Cooling Center Model:** Formally prepare the church to serve as a community cooling center, potentially including battery backup to keep systems running if the grid fails.
+  - **Tree Canopy:** Partner with local groups to plant trees in the neighborhood to provide natural shade and cooling.
+
+### Direct Support (Annually)
+
+  - **Financial Assistance:** Establish a fund to help parishioners with high power bills during extreme heat events.
+  - **Housing Coordination:** Help vulnerable people find temporary air-conditioned housing or "buddy" them with parishioners who have reliable cooling.
