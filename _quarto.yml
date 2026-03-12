@@ -39,6 +39,8 @@ website:
         text: Stories
       - href: liturgy-for-planting.qmd
         text: Liturgy
+      - href: about.qmd
+        text: About
 
 format:
   html:
