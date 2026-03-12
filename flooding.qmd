@@ -1,0 +1,80 @@
+---
+title: "Flooding & Drainage"
+format: html
+---
+
+# 🌊 Flooding & Drainage: Protecting the Foundation
+
+Goal: To prevent water from entering church structures, maintain the integrity of our foundations, and ensure our facility remains a dry, safe haven for the community during and after a flood event.
+
+-----
+
+## 1. Vulnerability Assessment
+
+Before implementing physical changes, we must understand the "lay of the land".
+
+  - **Floodplain Mapping:** Identify where our buildings sit relative to the 100-year (1% annual chance) and 500-year (0.2% annual chance) floodplains.
+  - **Historical Data:** Consult local archives to find the "high-water mark" of the last major local flood.
+  - **Entry Point Inspection:** Walk the perimeter to identify every possible water entry point, including basement windows, utility conduits, and low-threshold doors.
+
+-----
+
+## 2. Structural Hardening Actions
+
+These are physical modifications to the building and grounds to mitigate damage.
+
+### The Building Envelope
+
+  - **[Dry Floodproofing](https://www.lsuagcenter.com/~/media/system/5/4/4/e/544eb535bd65548f66fd921137ead24d/pub2768dry4.pdf):** For essential occupied spaces, we aim to make the building watertight. This involves applying waterproof membranes to exterior walls and installing "Flood Shields" (removable barriers) for doors.
+
+  - **⚠️ Critical Maintenance Note: The Weep-Hole Caveat** While sealing the building envelope, extreme caution must be exercised regarding weep-holes in masonry or brick veneer. These small gaps are vital for allowing moisture to escape from the wall cavity to prevent rot and mold.
+
+  - **During a Flood:** Weep-holes must be temporarily sealed (using specialized flood-rated plugs or shields) to prevent floodwater from entering the wall assembly. Sheets of plastic held by sandbags, or peelable caulk.
+  - **Post-Flood:** These plugs must be removed immediately once the water recedes. Permanently plugging weep-holes in a misguided attempt at waterproofing will trap condensation inside your walls, leading to structural decay and severe indoor air quality issues.
+
+  - **Wet Floodproofing:** For crawlspaces or unfinished basements, we may choose to allow water in to equalize pressure and prevent foundation collapse. This requires installing Hydrostatic Flood Vents and using flood-resistant materials (concrete, tile).
+  - **Backflow Prevention:** Install check valves on all sewer and floor drain lines to prevent "blackwater" (sewage) from backing up into the church during heavy rains.
+
+### Utilities & Systems (FEMA P-348 Standards)
+
+  - **Strategic Elevation:** Elevate all A/C compressors, furnaces, and electrical panels. While the goal is the Base Flood Elevation (BFE) + 1 foot, at minimum, systems should be raised above the 10–15 year flood level.
+  - **Sump Pump Redundancy:** Every basement must have a primary sump pump and a battery-powered backup. In high-risk areas, a third "water-powered" backup pump is recommended.
+
+-----
+
+## 3. Site & Water Management
+
+We must manage how water moves across our property to protect both our buildings and our neighbors downstream.
+
+  - **Precision Grading:** The ground must slope away from foundations at a minimum of 1 inch per foot for the first 6–10 feet.
+  - **Diversionary Infrastructure:** - **Channels & Swales:** Construct parabolic or trapezoidal channels to redirect water around buildings rather than toward them.
+    - **Levees:** For river-adjacent properties, consider a low-profile earthen levee, designed with a 3:1 slope for stability and maintenance.
+
+  - **High-Capacity Drainage:** Upgrade to 6-inch gutters and ensure downspouts discharge at least 10 feet away from the foundation into stabilized areas.
+  - **Permeable Parking:** When repaving, use permeable pavers or porous asphalt to allow the ground to absorb runoff, reducing the burden on municipal storm drains.
+
+-----
+
+## 4. Operational Readiness (The Action Plan)
+
+Hardening is only half the battle; we must be ready to act when a "Watch" or "Warning" is issued.
+
+### Flood Response Protocol
+
+  - **Sandbagging Strategy:** If sandbags are part of our plan, follow a "Staggered Brick" pattern with a plastic liner underneath to create a watertight seal.
+  - **Asset Protection:** Move high-value items (organs, historical records, sound equipment) to the second floor or the highest point in the sanctuary.
+  - **Relocation Evaluation:** In cases of extreme and repetitive flooding, the leadership must evaluate the long-term viability of the site and consider the "Managed Retreat" to higher ground.
+
+### Annual Maintenance Checklist
+
+  - [ ] **Debris Clearance:** Inspect and clear all storm drains, ditches, and diversionary channels.
+  - [ ] **Sandbag Audit:** Check stored sandbags for rot or UV damage.
+  - [ ] **Evacuation Drills:** Train volunteers on how to assist at-risk congregants or neighbors with limited mobility during a flood evacuation.
+
+-----
+
+## 📂 Technical Resources
+
+  - [FEMA P-348: Protecting Building Utility Systems](https://www.fema.gov/sites/default/files/2020-07/fema_p-348_protecting_building_utility_systems_from_flood_damage_2017.pdf) – The definitive guide for utility hardening.
+  - [The Silver Jackets](https://silverjackets.nfrmp.us/) – State-led interagency teams that can provide local flood risk data.
+  - **How to Use Sandbags** - brief guide on sand-bagging tech.
