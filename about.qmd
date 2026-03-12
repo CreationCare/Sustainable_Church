@@ -1,9 +1,42 @@
 ---
 title: "About"
+format: html
 ---
 
-About this site
+## The Task Force
 
-```{r}
-1 + 1
-```
+The **Creation Care and Sustainable Church Task Force** of the Episcopal Diocese of Texas (EDOT) is a body of lay leaders commissioned to steward our physical and spiritual resources. 
+
+Launched in its current form in **September 2025**, we provide congregations with the technical tools and theological grounding necessary to meet the environmental challenges of our region.
+
+::: {.callout-tip}
+## Our Mission: Sacramental Stewardship
+We believe that the Earth is a divine gift. Our care for it is a **visible sign of an inward and spiritual grace.** In the heart of "energy country," we model radical transformation by treating carbon reduction and property resilience as essential acts of faith.
+:::
+
+---
+
+### The Three Pillars
+
+::: {.layout-ncol=3}
+####  Mitigation
+Reducing our environmental footprint to reach **Net Zero by 2035–2040**.
+
+#### ️ Adaptation
+Hardening our facilities against heat and flooding to serve as community "refugia."
+
+#### ️ Formation
+Breaking "climate silence" through theological education and liturgical practice.
+:::
+
+---
+
+### Strategic Initiatives
+
+* **Diocesan Audits:** Set up a framework taht will allow all congregations to do an environmental audit.
+* **Financial Assistance:** Developing strategies for congregations to get affordable upgrades of their utilities, incliding solar panel installations.
+
+
+---
+
+[Back to Home](index.qmd)
