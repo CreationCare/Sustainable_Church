@@ -77,4 +77,4 @@ Hardening is only half the battle; we must be ready to act when a "Watch" or "Wa
 
   - [FEMA P-348: Protecting Building Utility Systems](https://www.fema.gov/sites/default/files/2020-07/fema_p-348_protecting_building_utility_systems_from_flood_damage_2017.pdf) – The definitive guide for utility hardening.
   - [The Silver Jackets](https://silverjackets.nfrmp.us/) – State-led interagency teams that can provide local flood risk data.
-  - **How to Use Sandbags** - brief guide on sand-bagging tech.
+  - [**How to Use Sandbags**](sandbag-technique.html) - brief guide on sand-bagging tech.

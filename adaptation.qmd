@@ -27,7 +27,7 @@ Select a category below to view specific hardening recommendations:
 | | | |
 | :---: | :---: | :---: |
 | [Disaster Basics](https://www.google.com/search?q=%23) | [Heat Resilience](https://www.google.com/search?q=%23) | [Wildfire Mitigation](https://www.google.com/search?q=%23) |
-| [Cold & Freezing](https://www.google.com/search?q=%23) | [Flooding & Drainage](flooding.html) | [Wind & Storm Safety](https://www.google.com/search?q=%23) |
+| [Cold & Freezing](https://www.google.com/search?q=%23) | [Flooding & Drainage](flooding-drainage.html) | [Wind & Storm Safety](https://www.google.com/search?q=%23) |
 | [Hail Protection](https://www.google.com/search?q=%23) | [Lightning Protection](https://www.google.com/search?q=%23) | [Power Outage Backup](https://www.google.com/search?q=%23) | 
 
 ### 3. Budget & Resource Allocation 
