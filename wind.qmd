@@ -7,7 +7,7 @@ format: html
 
 Goal: Secure the building’s exterior "envelope" to prevent structural failure and minimize damage from wind-borne projectiles.
 
------
+------------------------------------------------------------------------
 
 ## 🛑 1. Critical Actions
 
@@ -15,20 +15,20 @@ These items are the highest priority for life safety and protecting the structur
 
 ### One-Time Upgrades (Once)
 
-  - **Hurricane Straps:** Install "hurricane straps" or clips to securely anchor the roof rafters to the wall plates. This ensures the roof stays attached during extreme uplift.
-  - **Signage:** Install clear, permanent signage directing the congregation and visitors to designated Sheltered Areas (basements or interior rooms) for tornado safety.
-  - **Worst-Case Scenario Plan:** Develop a formal protocol for a tornado approaching specifically during a Sunday service or high-occupancy event.
-  + Who gives the order to move?
-  + Which ushers guide which sections?
-  + How do we assist those with limited mobility?
+-   **Hurricane Straps:** Install "hurricane straps" or clips to securely anchor the roof rafters to the wall plates. This ensures the roof stays attached during extreme uplift.
+-   **Signage:** Install clear, permanent signage directing the congregation and visitors to designated Sheltered Areas (basements or interior rooms) for tornado safety.
+-   **Worst-Case Scenario Plan:** Develop a formal protocol for a tornado approaching specifically during a Sunday service or high-occupancy event.
+    -   Who gives the order to move?
+    -   Which ushers guide which sections?
+    -   How do we assist those with limited mobility?
 
 ### Recurring Maintenance (Annually)
 
-  - **Tree Safety Audit:** Have a professional check for dead limbs. Remove "hazard trees" that could fall on the building or power lines.
-  - **Roof Inspection:** Check for damaged, loose, or missing shingles. Ensure shingles are rated for high-wind speeds (Class F or H).
-  - **Projectile Protocol:** Review the plan for securing or moving exterior items (memorial benches, signage, trash cans, or playground equipment) when a high-wind warning is issued.
+-   **Tree Safety Audit:** Have a professional check for dead limbs. Remove "hazard trees" that could fall on the building or power lines.
+-   **Roof Inspection:** Check for damaged, loose, or missing shingles. Ensure shingles are rated for high-wind speeds (Class F or H).
+-   **Projectile Protocol:** Review the plan for securing or moving exterior items (memorial benches, signage, trash cans, or playground equipment) when a high-wind warning is issued.
 
------
+------------------------------------------------------------------------
 
 ## ⚠️ 2. Recommended Protection
 
@@ -36,11 +36,11 @@ These measures provide a significant secondary layer of safety for the building'
 
 ### One-Time Upgrades (Once)
 
-  - **Door Reinforcement:** Install heavy-duty deadbolts. For double-entry doors, ensure "flush bolts" are installed at the top and bottom of the "inactive" leaf to prevent doors from blowing open.
-  - **Interior Stabilization:** Secure tall furniture (such as heavy bookcases or storage cabinets) to the wall using earthquake-style straps.  
+-   **Door Reinforcement:** Install heavy-duty deadbolts. For double-entry doors, ensure "flush bolts" are installed at the top and bottom of the "inactive" leaf to prevent doors from blowing open.
+-   **Interior Stabilization:** Secure tall furniture (such as heavy bookcases or storage cabinets) to the wall using earthquake-style straps.\
     *Note: High winds can cause enough structural vibration to topple unanchored items, even if the building itself remains standing.*
 
------
+------------------------------------------------------------------------
 
 ## ✨ 3. Advanced Resilience
 
@@ -48,16 +48,16 @@ For congregations in high-risk zones seeking maximum protection.
 
 ### One-Time Structural Upgrades (Once)
 
-  - **Window Protection:** Apply security window film (8–12 mil thickness) to high-risk glass areas. This keeps glass from shattering inward even if struck by debris.
-  - **Impact-Resistant Glass:** Replace standard windows with impact-rated glass designed to withstand high-velocity debris strikes.
-  - **Storm Shutters:** Install permanent storm shutters that can be deployed quickly before an event.
-  - **Plywood Stockpile:** In hurricane-prone regions, pre-cut and store plywood sheets labeled for specific vulnerable windows.
+-   **Window Protection:** Apply security window film (8–12 mil thickness) to high-risk glass areas. This keeps glass from shattering inward even if struck by debris.
+-   **Impact-Resistant Glass:** Replace standard windows with impact-rated glass designed to withstand high-velocity debris strikes.
+-   **Storm Shutters:** Install permanent storm shutters that can be deployed quickly before an event.
+-   **Plywood Stockpile:** In hurricane-prone regions, pre-cut and store plywood sheets labeled for specific vulnerable windows.
 
 ### Recurring Maintenance (Annually)
 
-  - **Supply Audit:** Annually verify that stockpiled supplies (plywood, fasteners, tools) are in good condition and haven't succumbed to rot or rust.
+-   **Supply Audit:** Annually verify that stockpiled supplies (plywood, fasteners, tools) are in good condition and haven't succumbed to rot or rust.
 
------
+------------------------------------------------------------------------
 
 ### Resource Link
 
