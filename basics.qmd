@@ -1,0 +1,70 @@
+---
+title: "Disaster Basics"
+format: html
+---
+
+# 📋 Disaster Basics: The Resilience Foundation
+
+Goal: To establish the core frameworks of communication, authority, and documentation required to manage any crisis effectively. 
+
+-----
+
+## 🛑 1. Critical Actions
+
+These foundational items represent the core framework without which other disaster responses will likely fail. 
+
+### Administrative & Infrastructure (Once)
+
+  - [The Preparedness Workbook](https://www.epicenter-prepare.org/): Work through the formal Congregation Emergency Preparedness Workbook to establish your baseline. 
+  - **Written Plans:** Create a specific written response plan for your congregation’s most likely disasters (e.g., hurricanes, heat, wildfire, tornado, or flooding). 
+  - **Communication Strategy:** Establish a robust parish communication strategy, such as an automated texting platform, to reach parishioners before and after an event. 
+  - **Utility Access:** Identify exactly where and how to turn off water, gas, and electricity. Ensure any specialized tools (like a meter key) are labeled and on-site. 
+  - **Emergency Signage:** Audit all "Exit" signs and directional signage to ensure they clearly guide people to safety during a crisis. 
+  - **Digital Readiness:** Ensure all staff download the FEMA emergency app and enable emergency weather alerts on their mobile devices. 
+
+### Annual Readiness & Testing
+
+  - **Disaster Coordinator:** Appoint a designated disaster coordinator annually (preferably a lay leader rather than the rector) to oversee the plan. 
+  - **Insurance Audit:** Verify that all insurance policies (including flood, fire, and wind) are current and provide sufficient coverage. 
+  - **Data Protection:** Conduct a backup test to ensure that critical parish records are not only backed up to the cloud but are actually accessible and recoverable. 
+  - **Communication Drill:** Test your communication plan annually by updating the parish contact list and sending a test broadcast. 
+  - **Detection Systems:** Test all smoke and carbon monoxide detectors throughout the facility. 
+
+-----
+
+## ⚠️ 2. Recommended Protection
+
+These measures provide an additional layer of preparedness for the staff and the wider congregation. 
+
+### Educational Outreach (Annually)
+
+  - **Parishioner Training:** Host annual education sessions to help individual parishioners and families develop their own personal emergency preparedness plans. 
+  - **Work-from-Home Drill:** Conduct a "work-from-home" day for staff to test the congregation's ability to maintain operations and secure buildings remotely. 
+
+-----
+
+## ✨ 3. Community Leadership
+
+Advanced strategies for extending the church's mission into the community and building a culture of mutual aid. 
+
+**The Resilience Truth:** Every disaster teaches that survival correlates less with isolation than with social cohesion. In a crisis, it is not the loner who fares best, but the block, town, or network that has learned to work together. 
+
+### Community Integration (Once)
+
+  - **Social Cohesion Mapping:** Proactively "know your neighbors." Identify the strengths and needs of the blocks immediately surrounding the church property before a crisis occurs. 
+  - **Evacuation Networks:** Coordinate with neighboring parishes and civic groups to develop evacuation plans specifically for those lacking personal transportation or secure shelter. 
+  - **Local Partnerships:** Establish formal relationships with local emergency management and first responders. Offer the church as a designated "Refugia"—a reliable heating/cooling center or a central supply distribution point. 
+  - **Vulnerability Planning:** Develop targeted outreach plans to assist the elderly, the infirm, and those with limited mobility in your neighborhood. Ensure they have a clear path to safety during evacuations or extreme weather events. 
+
+### Theological Engagement (Annually)
+
+  - **Mutual Aid Training:** Host annual neighborhood workshops on basic disaster prep to build trust and familiarity between the congregation and the surrounding community. 
+  - **Network Testing:** Review your partnership agreements with local NGOs and neighboring parishes to ensure contact information and resource lists are current. 
+
+-----
+
+### Resource Links
+
+  - [The Congregation Emergency Preparedness Workbook](https://www.epicenter-prepare.org/) 
+  - [FEMA Mobile App](https://www.fema.gov/about/news-multimedia/mobile-products) 
+  - [Ready.gov: Disaster Preparedness Tips](https://www.ready.gov/be-informed)
