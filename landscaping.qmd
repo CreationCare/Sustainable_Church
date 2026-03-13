@@ -7,7 +7,7 @@ format: html
 
 Goal: To transform church grounds into resilient ecosystems that conserve water, support local wildlife, and provide a cooling refuge for the neighborhood. 
 
-A Liturgy for the Planting of Trees and Gardens 
+A [Liturgy](liturgy-for-planting.html) for the Planting of Trees and Gardens 
 
 -----
 
