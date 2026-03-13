@@ -76,8 +76,10 @@ As we tend this garden of your creation, we commit ourselves to:
 
 **People:** Thanks be to God. Amen.
 
+::::: {.content-visible unless-format="pdf"}
 :::{.callout-note}
 A printable pdf of this liturgy: 
 [Download here](liturgy-for-planting.pdf)
 :::
+:::::
 
