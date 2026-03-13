@@ -1,6 +1,8 @@
 ---
 title: "Liturgy for Planting"
-format: html
+format:
+  html: default
+  pdf: default
 ---
 
 # A Liturgy for the Planting of Trees and Gardens
@@ -73,3 +75,9 @@ As we tend this garden of your creation, we commit ourselves to:
 **Officiant:** Go forth into the world as stewards of the Earth. Be rooted in love, growing in hope, and bearing the fruits of the Spirit. 
 
 **People:** Thanks be to God. Amen.
+
+:::{.callout-note}
+A printable pdf of this liturgy: 
+[Download here](liturgy-for-planting.pdf)
+:::
+
