@@ -1,0 +1,65 @@
+---
+title: "Energy Audits"
+format: html
+---
+
+# ⚡ Energy Audits: Illuminating Stewardship
+
+Goal: To identify where our buildings are "leaking" energy and money, allowing us to redirect those resources toward mission and ministry.
+
+-----
+
+## 🔌 Why Audit Your Energy?
+
+The "greenest" kilowatt-hour is the one you never use. Most older church facilities can reduce their energy bills by 20–30% simply by identifying air leaks and optimizing aging HVAC systems.
+
+-----
+
+## 🛑 1. The Simple DIY Audit
+
+Before spending money on a professional, your "Green Team" can identify the "low-hanging fruit" in a single afternoon.
+
+  - **The Draft Test:** On a windy day, use a lit incense stick or a thin tissue near windows, doors, and electrical outlets. If the smoke or tissue flutters, you have an air leak that needs weatherstripping or caulk.
+  - **Lighting Inventory:** Count every bulb in the building. If it isn’t an LED, mark it for replacement. Switching to LEDs is the single fastest ROI in energy stewardship.
+  - **The "Phantom Load" Search:** Identify electronics that stay plugged in 24/7 (coffee makers, old CRT televisions, printers). Use power strips to truly turn them off when not in use.
+  - **Thermostat Audit:** Ensure thermostats are not "fighting" each other and are programmed to drift (higher in summer, lower in winter) during hours the building is unoccupied.
+
+-----
+
+## ⚠️ 2. Utility-Sponsored Audits
+
+Many local power providers offer free or low-cost basic assessments for commercial and non-profit customers.
+
+  - **CenterPoint Energy (Houston):** Through their SCORE Program (Schools and Conserving Resources), CenterPoint provides energy performance benchmarking and technical assistance to help non-profits identify efficiency projects.
+  - **Austin Energy / CPS Energy:** These utilities often provide free on-site energy walk-throughs and significant rebates for attic insulation and HVAC upgrades.
+  - **Why do this?** Utility audits are excellent for securing rebates. They often pay for a portion of the hardware if you follow their specific efficiency recommendations.
+
+-----
+
+## ✨ 3. Professional Diocesan Audits
+
+For a truly comprehensive roadmap to carbon neutrality, the diocese offers a professional, engineering-grade audit.
+
+This is all, of course, aspirational....... 
+
+We recognize that every congregation's budget is different. The diocese offers a sliding cost scale for professional audits to ensure every parish can participate.
+
+### The Sliding Scale
+
+  - **$0 (Fully Subsidized):** For small missions or resource-constrained parishes.
+  - **$2,500 (Cost-Sharing):** For mid-sized parishes looking to split the investment with the diocese.
+  - **$5,000 (Full Comprehensive):** For large campuses requiring detailed mechanical engineering reports, solar feasibility studies, and 10-year ROI projections.
+
+### What a Professional Audit Includes:
+
+  - **Thermal Imaging:** Using infrared cameras to see exactly where heat is entering or escaping through walls and ceilings.
+  - **HVAC Life-Cycle Analysis:** A detailed report on when your units will likely fail and what high-efficiency models should replace them.
+  - **Project Prioritization:** A data-backed list of projects ranked by their "Payback Period" (how long it takes for energy savings to pay for the upgrade).
+
+-----
+
+### Resource Links
+
+  - [CenterPoint Energy SCORE Program](https://www.google.com/search?q=https://www.centerpointenergy.com/en-us/business/save-energy-money/efficiency-programs/score-program%3Fsa%3Dho) 
+  - [Austin Energy Energy Conservation Audit](https://coautilities.com/wps/wcm/connect/occ/coa/util/contact-us/coa-utility-departments/austin-energy#:~:text=By%20collaborating%20with%20customers%2C%20Austin,Austin%203%2D1%2D1.) 
+  - [Energy Star: Action Workbook for Congregations](https://www.google.com/search?q=https://www.energystar.gov/sites/default/files/tools/Action_Workbook_for_Congregatio)
