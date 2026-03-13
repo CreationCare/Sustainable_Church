@@ -1,0 +1,94 @@
+---
+title: "Toilets and Faucets"
+format: html
+---
+
+# 💧 Toilets and Faucets: Indoor Water Stewardship
+
+Goal: To reduce indoor potable water usage, thereby decreasing parish expenses, lowering the energy required for water treatment, and extending the capacity of local water resources. 
+
+## 🚰 Overview: Why it Matters
+
+Reducing water use is a concrete step every parish can take toward environmental stewardship.  Leaky or outdated fixtures can waste thousands of gallons of water per month.  For example, a single leaking toilet can cost up to $50 per month in wasted water.  These simple changeouts do not require professional water usage audits to begin making an impact. 
+
+-----
+
+## 🛑 1. Critical Actions
+
+Essential, low-cost steps with immediate financial and environmental benefits. 
+
+### Essential Maintenance (Annually)
+
+  - **Leak Detection:** Test all toilets for leaks at least twice per year and repair them immediately. 
+  - **Flow Verification:** Check the gallons per flush (gpf) on existing toilets; this is typically printed on the outside of the toilet, the inside of the tank, or the bottom side of the tank cover. 
+
+-----
+
+## ⚠️ 2. Recommended
+
+High-impact upgrades that significantly reduce ongoing resource consumption. 
+
+### Fixture Upgrades (Once)
+
+  - **Faucet Aerators:** Replace high-flow lavatory faucet aerators with 0.5 GPM or 1.0 GPM versions. 
+    - *Note:* Try 0.5 GPM aerators on a few faucets first to gauge effectiveness; if water pressure is insufficient, use 1.0 GPM aerators. 
+  - **Pipe Insulation:** Insulate all hot water lines—not just those in exterior walls—with R-3 or higher insulation to maintain water temperature and reduce waste. 
+
+-----
+
+## ✨ 3. Advanced Resilience
+
+Long-term investments for when equipment fails or major renovations occur. 
+
+### Strategic Replacements (Once)
+
+  - **WaterSense Toilets:** If current toilets use more than 1.6 gpf, replace them with WaterSense labeled toilets or adjust flow rates to 1.28 gpf or lower. 
+    - *Note:* Ensure existing wastewater plumbing is sloped adequately to handle current federal maximum toilet flows. 
+
+-----
+
+### Anticipated Outcomes
+
+  - **Lower Utility Costs:** Parish water bills will decrease significantly. 
+  - **Resource Protection:** Stress on local and regional water resources, including aquifers, rivers, and lakes, will be reduced. 
+
+-----
+
+### Resource Link
+
+  - [EPA WaterSense Labeled Toilets](https://19january2017snapshot.epa.gov/www3/watersense/products/toilets.html): A guide to finding high-efficiency, high-performance models. 
+
+# 🕵️‍♂️ Parish Water Audit: Volunteer Field Guide
+
+Objective: To identify "silent" leaks and verify fixture efficiency across all church buildings. 
+
+### Phase 1: The "Silent" Leak Test (Toilets)
+
+A toilet can leak hundreds of gallons a day without making a sound. 
+
+  - **The Dye Test:** Drop 3–4 drops of food coloring (or a dye tablet) into the toilet tank.  Do not flush. 
+  - **The Wait:** Wait 15–20 minutes. 
+  - **The Result:** If the color appears in the bowl, the "flapper" valve is leaking and needs to be replaced. 
+  - **Action:** Record the room number and the color of the dye for the maintenance team. 
+
+-----
+
+### Phase 2: Flow Rate Verification
+
+Identifying outdated fixtures for future "Could" or "Should" upgrades. 
+
+  - **Toilet Check:** Look for the "GPF" (Gallons Per Flush) stamp.  It is usually located behind the seat on the porcelain or inside the tank. 
+    - **Target:** 1.28 GPF or lower. 
+    - **Warning:** If you see "3.5 GPF" or "5.0 GPF," mark this for priority replacement. 
+  - **Faucet Check:** Look at the tip of the faucet (the aerator).  It often has the "GPM" (Gallons Per Minute) etched into the metal. 
+    - **Target:** 0.5 GPM to 1.0 GPM for bathrooms. 
+
+-----
+
+### Phase 3: The Hot Water "Touch Test"
+
+Checking for energy and water waste in the plumbing lines. 
+
+  - **Insulation Check:** Locate the hot water heater.  Follow the copper or PEX pipes coming out of the top. 
+  - **The Goal:** Are the pipes bare?  If they are not wrapped in foam insulation, we are losing heat every second the water sits in the pipe. 
+  - **Action:** Measure the diameter of the pipe so the correct size of foam insulation can be purchased.
