@@ -11,7 +11,7 @@ Goal: To identify where our buildings are "leaking" energy and money, allowing u
 
 ## 🔌 Why Audit Your Energy?
 
-The "greenest" kilowatt-hour is the one you never use. Most older church facilities can reduce their energy bills by 20–30% simply by identifying air leaks and optimizing aging HVAC systems.
+**The "greenest" kilowatt-hour is the one you never use.** Most older church facilities can reduce their energy bills by 20–30% simply by identifying air leaks and optimizing aging HVAC systems.
 
 -----
 
@@ -38,17 +38,24 @@ Many local power providers offer free or low-cost basic assessments for commerci
 
 ## ✨ 3. Professional Diocesan Audits
 
-For a truly comprehensive roadmap to carbon neutrality, the diocese offers a professional, engineering-grade audit.
+The taskforce is currently running a few pilot audits with a well-regarded 
+professional company that specializes in church audits. It is hoped that we
+can work out a deal for the diocese, which may include financing for 
+congregations that are under-resourced. More to come in this space.
 
-This is all, of course, aspirational....... 
+A comprehensive audit generally runs about $5,000.
 
-We recognize that every congregation's budget is different. The diocese offers a sliding cost scale for professional audits to ensure every parish can participate.
+<!-- For a truly comprehensive roadmap to carbon neutrality, the diocese offers a professional, engineering-grade audit. -->
 
-### The Sliding Scale
+<!-- This is all, of course, aspirational.......  -->
 
-  - **$0 (Fully Subsidized):** For small missions or resource-constrained parishes.
-  - **$2,500 (Cost-Sharing):** For mid-sized parishes looking to split the investment with the diocese.
-  - **$5,000 (Full Comprehensive):** For large campuses requiring detailed mechanical engineering reports, solar feasibility studies, and 10-year ROI projections.
+<!-- We recognize that every congregation's budget is different. The diocese offers a sliding cost scale for professional audits to ensure every parish can participate. -->
+
+<!-- ### The Sliding Scale -->
+
+<!--   - **$0 (Fully Subsidized):** For small missions or resource-constrained parishes. -->
+<!--   - **$2,500 (Cost-Sharing):** For mid-sized parishes looking to split the investment with the diocese. -->
+<!--   - **$5,000 (Full Comprehensive):** For large campuses requiring detailed mechanical engineering reports, solar feasibility studies, and 10-year ROI projections. -->
 
 ### What a Professional Audit Includes:
 
@@ -60,6 +67,6 @@ We recognize that every congregation's budget is different. The diocese offers a
 
 ### Resource Links
 
-  - [CenterPoint Energy SCORE Program](https://www.google.com/search?q=https://www.centerpointenergy.com/en-us/business/save-energy-money/efficiency-programs/score-program%3Fsa%3Dho) 
+  - [CenterPoint Energy SCORE Program](https://www.centerpointenergy.com/en-us/SaveEnergyandMoney/Pages/Schools-and-Non-Profit-Efficiency-Program.aspx?sa=ho&au=bus) 
   - [Austin Energy Energy Conservation Audit](https://coautilities.com/wps/wcm/connect/occ/coa/util/contact-us/coa-utility-departments/austin-energy#:~:text=By%20collaborating%20with%20customers%2C%20Austin,Austin%203%2D1%2D1.) 
-  - [Energy Star: Action Workbook for Congregations](https://www.google.com/search?q=https://www.energystar.gov/sites/default/files/tools/Action_Workbook_for_Congregatio)
+  - [Energy Star: Action Workbook for Congregations](https://www.energystar.gov/sites/default/files/tools/ENERGYSTAR_Congregations_AWB_May_2019_Merged_508.pdf)
