@@ -3,6 +3,8 @@ title: "Liturgy for Planting"
 format:
   html: default
   pdf: default
+execute:
+  freeze: auto
 ---
 
 # A Liturgy for the Planting of Trees and Gardens
