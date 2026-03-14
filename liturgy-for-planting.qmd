@@ -4,6 +4,7 @@ format:
   html: default
   pdf: default
 execute:
+  cache: true
   freeze: auto
 ---
 
