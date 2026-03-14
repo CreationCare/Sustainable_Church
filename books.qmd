@@ -149,8 +149,8 @@ Scientist Kate Marvel has seen the world end before, sometimes several times a d
 
 **\* Devotions: A Read with Jenna Pick: The Selected Poems of Mary Oliver** *Mary Oliver*
 
+```{.text-block}
 “LITTLE DOGS RHAPSODY IN THE NIGHT
-
 (PERCY THREE)
 
 He puts his cheek against mine
@@ -169,6 +169,7 @@ Could there be a sweeter arrangement?
 Over and over
 he gets to ask it.
 I get to tell. 
+```
 
 **The Song of the Dodo: Island Biogeography in an Age of Extinctions** *David Quammen*
 
