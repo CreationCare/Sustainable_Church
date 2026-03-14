@@ -49,7 +49,7 @@ We have curated a library of tools to help your congregation engage with Creatio
 
 ### 📚 Community Learning
 
-  - **Book Club Recommendations:** [View our curated list](https://www.google.com/search?q=%23) of books on theology, ecology, and hope—complete with reviews and discussion prompts. 
+  - **Book Club Recommendations:** [View our curated list](books.html) of books on theology, ecology, and hope—complete with reviews and discussion prompts. 
   - **Adult Formation Series:** Multi-week curricula exploring the biblical foundations of "Creation Care." 
 
 -----
