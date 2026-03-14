@@ -26,15 +26,15 @@ Select a category below to view specific hardening recommendations:
 
 | | | |
 | :---: | :---: | :---: |
-| [Disaster Basics](https://www.google.com/search?q=%23) | [Heat Resilience](https://www.google.com/search?q=%23) | [Wildfire Mitigation](https://www.google.com/search?q=%23) |
-| [Cold & Freezing](https://www.google.com/search?q=%23) | [Flooding & Drainage](flooding-drainage.html) | [Wind & Storm Safety](https://www.google.com/search?q=%23) |
-| [Hail Protection](https://www.google.com/search?q=%23) | [Lightning Protection](https://www.google.com/search?q=%23) | [Power Outage Backup](https://www.google.com/search?q=%23) | 
+| [Disaster Basics](basics.html) | [Heat Resilience](heat.html) | [Wildfire Mitigation](wildfire-smoke.html) |
+| [Cold & Freezing](cold.html) | [Flooding & Drainage](flooding-drainage.html) | [Wind & Storm Safety](wind.html) |
+| [Hail Protection](hail.html) | [Lightning Protection](lightning.html) | [Power Outage Backup](power-outages.html) | 
 
 ### 3. Budget & Resource Allocation 
 
 We prioritize adaptations that offer the greatest protection for the most people. This isn't just an expense; it is an investment in our future. 
 
-  - **Funding the Work:** Check our [Potential Funding Sources](https://www.google.com/search?q=%23) page for information on grants, denominational aid, and community partnerships. 
+  <!-- - **Funding the Work:** Check our [Potential Funding Sources](https://www.google.com/search?q=%23) page for information on grants, denominational aid, and community partnerships.  -->
 
 ### 4. Implementation & Maintenance 
 
@@ -43,3 +43,6 @@ A plan only works if it is put into motion. Our final phase involves:
   - Executing physical upgrades (e.g., roof reinforcement, sump pump installation). 
   - Updating emergency response protocols. 
   - **Annual Review:** Disasters change, and so should our plan.
+  
+  
+  
