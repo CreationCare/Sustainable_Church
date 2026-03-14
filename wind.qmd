@@ -61,4 +61,8 @@ For congregations in high-risk zones seeking maximum protection.
 
 ### Resource Link
 
-Refer to [FEMA Wind Resilience Guides](https://www.fema.gov/emergency-managers/risk-management/wind) for technical specifications on load paths and wind-resistant construction.
+Refer to [FEMA Wind Resilience Guides](https://www.fema.gov/sites/default/files/2020-07/guidelines-wind-vulnerability.pdf) for technical specifications on load paths and wind-resistant construction.
+<!-- Refer to [FEMA Wind Resilience Guides](https://www.fema.gov/emergency-managers/risk-management/wind) for technical specifications on load paths and wind-resistant construction. -->
+
+
+
