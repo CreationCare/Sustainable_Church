@@ -27,10 +27,11 @@ identified through audits often yield the highest immediate impact.
 
 ### Essential Audits 
 
-  - **Energy Audit:** Perform a professional energy audit to identify where heat
+  - [**Energy Audit:**](energy-audit.html) 
+  Perform a professional energy audit to identify where heat
   is escaping and where electrical loads can be reduced. 
-  - **Water Audit:** Conduct a full water audit to find hidden leaks and inefficient fixtures. 
-  - **Waste Audit:** Identify opportunities to reduce landfill waste through
+  - [**Water Audit:**](water-audit.html) Conduct a full water audit to find hidden leaks and inefficient fixtures. 
+  - [**Waste Audit:**](waste-audit.html) Identify opportunities to reduce landfill waste through
   composting, recycling, and eliminating single-use plastics. 
 
 -----
