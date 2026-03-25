@@ -21,9 +21,11 @@ These "once-and-done" structural improvements significantly increase the chance 
 
 -----
 
-## 2. The Defensible Space System
+## 2. [The Defensible Space System](https://www.nfpa.org/education-and-research/wildfire/preparing-homes-for-wildfire)
 
 Wildfire defense is about managing "fuel" in concentric circles around the church. 
+
+![Fire defense zones](HIZNew.jpg)
 
 ### The 0–5 Foot "No-Burn Zone"
 
