@@ -41,7 +41,7 @@ Measures to improve energy efficiency and protect the most vulnerable.
   - **Window Management:** Cover windows with drapes, shades, or specific heat-reflecting window films to block solar gain.
   - **Building Envelope:** Weather-strip all doors and windows and add insulation to keep heat out and cool air in.
   - **Ventilation:** Use powered attic ventilators or fans to clear hot air from the building’s attic.
-  - **Audit:** Have a professional energy audit performed to identify "leaks" in the building’s efficiency.
+  - [**Audit:**](energy-audit.html) Have a professional energy audit performed to identify "leaks" in the building’s efficiency.
 
 ### Operational Readiness (Annually)
 
@@ -58,7 +58,7 @@ Advanced strategies for long-term resilience and neighborhood support.
 
   - **Reflective Surfaces:** Use heat-reflective shingles when replacing the roof or explore "cool pavement" options for the parking lot to reduce the heat-island effect.
   - **The Cooling Center Model:** Formally prepare the church to serve as a community cooling center, potentially including battery backup to keep systems running if the grid fails.
-  - **Tree Canopy:** Partner with local groups to plant trees in the neighborhood to provide natural shade and cooling.
+  - [**Tree Canopy:**](landscaping.html) Partner with local groups to plant trees in the neighborhood to provide natural shade and cooling.
 
 ### Direct Support (Annually)
 

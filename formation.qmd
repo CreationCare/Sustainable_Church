@@ -58,7 +58,7 @@ We have curated a library of tools to help your congregation engage with Creatio
 
 Not every conversation needs to start in a classroom. Sometimes, the best theology is practiced with our hands in the dirt and our feet on the earth. 
 
-  - **Stewardship of the Land:** Resources for water-wise gardening, xeriscaping, and planting native species on church grounds and at home. 
+  - [**Stewardship of the Land:**](landscaping.html) Resources for water-wise gardening, xeriscaping, and planting native species on church grounds and at home. 
   - **Plalking (Pick-up + Walking):** A spiritual practice of "[walking and
   picking
   up](https://www.merriam-webster.com/wordplay/origin-and-meaning-of-plogging)"—caring
