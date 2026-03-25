@@ -49,7 +49,7 @@ During regional fires, the church can serve as a "Clean Air Center" for those wi
   - **HVAC Filtration:** Upgrade your system to handle MERV 13 or HEPA filters. These are high-density filters capable of scrubbing fine smoke particles (PM2.5) from the air. 
   - **Portable Air Scrubbers:** Purchase industrial-grade portable air purifiers. These can be deployed in the "Fellowship Hall" or Sanctuary to create a safe breathing environment even if the main HVAC is limited. 
   - [**DIY Air Scrubbing:**](https://edge.deohs.washington.edu/blog/how-make-box-fan-filter-clean-indoor-air-smoke) 
-  There are also plans for DIY air purifiers made from a box fan, MERV 13 filters, and duct tape that are surprisingly effective. 
+  There are also [plans](images/AirFilterInfographic_FINAL.jpg) for DIY air purifiers made from a box fan, MERV 13 filters, and duct tape that are surprisingly effective. 
   - **Monitoring:** Keep a digital AQI (Air Quality Index) monitor on-site to verify that the indoor air remains safe when outdoor conditions are hazardous. 
 
 -----
