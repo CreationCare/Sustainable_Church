@@ -1,0 +1,9 @@
+---
+title: "DIY-smoke-scrubber"
+format: html
+---
+
+##    Do-It-Yourself Smoke Scrubbing
+
+![Picture of how to construct a simple air filter](AirFilterInfographic_FINAL.jpg)
+
