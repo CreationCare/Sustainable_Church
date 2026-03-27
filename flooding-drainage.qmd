@@ -14,13 +14,15 @@ Goal: To prevent water from entering church structures, maintain the integrity o
 Before implementing physical changes, we must understand the "lay of the land".
 
   - **Floodplain Mapping:** Identify where our buildings sit relative to the 100-year (1% annual chance) and 500-year (0.2% annual chance) floodplains. 
-  ::: {.callout-tip}
+  
+::: {.callout-tip}
 ## Understanding the Risks
 For a variety of reasons, the FEMA flood maps are often too conservative. We 
 recommend treating the 100-year flood maps as if they were 30-year maps, and the 
 500-year maps as if they were 100-year maps. An alternative source of risk
 assessment comes from [First Street](https://firststreet.org/methodology/flood?redirect=true&utm_term=first%20street%20flood%20map).
 :::
+
   - **Historical Data:** Consult local archives to find the "high-water mark" of the last major local flood.
   - **Entry Point Inspection:** Walk the perimeter to identify every possible water entry point, including basement windows, utility conduits, and low-threshold doors.
 
