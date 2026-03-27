@@ -55,7 +55,11 @@ These are physical modifications to the building and grounds to mitigate damage.
 
 We must manage how water moves across our property to protect both our buildings and our neighbors downstream.
 
-  - **Precision Grading:** The ground must slope away from foundations at a minimum of 1 inch per foot for the first 6–10 feet.
+  - **Precision Grading:**
+  The ground must slope away from foundations at a minimum of 1 inch per foot for the first 6–10 feet.
+  
+  [![Drainage slope recommendation](Drainage-slope.jpeg){width=40% fig-align="left"}](https://www.inspectionworks.ca/the-importance-of-proper-grading-around-your-home-protecting-your-foundation-preventing-erosion-improving-curb-appeal-and-saving-money/)
+  
   - **Diversionary Infrastructure:** - **Channels & Swales:** Construct parabolic or trapezoidal channels to redirect water around buildings rather than toward them.
     - **Levees:** For river-adjacent properties, consider a low-profile earthen levee, designed with a 3:1 slope for stability and maintenance.
 
