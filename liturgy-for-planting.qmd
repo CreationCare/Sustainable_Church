@@ -5,7 +5,7 @@ format:
   pdf: default
 execute:
   cache: true
-  freeze: auto
+  freeze: true
 ---
 
 # A Liturgy for the Planting of Trees and Gardens
