@@ -16,6 +16,7 @@ website:
           - mitigation.qmd
           - adaptation.qmd
           - formation.qmd
+          - Process_guidance.qmd
       - text: "Resilience Guides"
         menu:
           - basics.qmd
