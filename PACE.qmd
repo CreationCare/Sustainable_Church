@@ -1,6 +1,5 @@
 ---
 title: "TX-PACE: Financing Resilience"
-author: "Alan Jackson"
 ---
 
 # 💰 TX-PACE: Financing Our Future
