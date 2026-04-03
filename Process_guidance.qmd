@@ -68,4 +68,4 @@ Transitioning toward a resilient and sustainable campus is a multidimensional ef
 * [**Waste Audit:**](waste-audit.html) Identify opportunities to reduce landfill waste through
   composting, recycling, and eliminating single-use plastics. 
 
-* [**Financing Resilience**](PACE.qmd): Information on TX-PACE and other funding strategies.
+* [**Financing Resilience**](Financing.qmd): Information on funding strategies.

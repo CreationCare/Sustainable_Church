@@ -17,6 +17,7 @@ website:
           - adaptation.qmd
           - formation.qmd
           - Process_guidance.qmd
+          - Financing.qmd
       - text: "Resilience Guides"
         menu:
           - basics.qmd
@@ -45,7 +46,6 @@ website:
         text: Liturgy
       - href: about.qmd
         text: About
-
 format:
   html:
     theme: cosmo
@@ -53,5 +53,4 @@ format:
     toc: true
     link-external-newwindow: true
     link-external-icon: true # Optional: shows an icon next to external links
-
 editor: source
