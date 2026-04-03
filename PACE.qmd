@@ -17,7 +17,7 @@ title: "TX-PACE: Financing Resilience"
 
 ---
 
-## 🛑 1. Discovery & Eligibility (Must)
+## 🛑 1. Discovery & Eligibility 
 *Foundational steps to determine if TX-PACE is right for your parish.*
 
 ### **Jurisdiction Check (Once)**
@@ -26,7 +26,7 @@ title: "TX-PACE: Financing Resilience"
 
 ---
 
-## ⚠️ 2. Strategic Retrofits (Should)
+## ⚠️ 2. Strategic Retrofits 
 *High-impact systems that qualify for PACE financing.*
 
 ### **Mechanical & Energy Upgrades (Once)**
@@ -40,10 +40,10 @@ title: "TX-PACE: Financing Resilience"
 
 ---
 
-## ✨ 3. Advanced Resilience (Could)
+## ✨ 3. Advanced Resilience 
 *Transformational projects that secure the parish's long-term environmental mission.*
 
-### **Distributed Generation (Once)**
+### **Distributed Generation**
 * **Renewable Energy:** Install large-scale solar arrays or wind turbines. 
 * **Heat Recovery:** Implement advanced heat recovery systems and steam traps to maximize thermal efficiency.
 
