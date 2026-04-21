@@ -38,12 +38,12 @@ Encourages conservation through rebates for ceiling insulation, HVAC audits, hig
 **Primary Focus:** Comprehensive Urban Efficiency  
 Provides an extensive suite of over 20 commercial rebate options, including HVAC replacements, reflective roof coatings, and EV charging infrastructure. Small businesses can also access bundles for lighting and smart thermostats.
 
----
+<!-- --- -->
 
-##  PACE
+<!-- ##  PACE -->
 
-### [Property Assessed Clean Energy (TX-PACE)](PACE.html) 
-PACE is a proven financial tool established by Texas legislation. It allows property owners—including non-profits and houses of worship—to upgrade aging infrastructure without the burden of a traditional bank loan or a major capital campaign.
+<!-- ### [Property Assessed Clean Energy (TX-PACE)](PACE.html)  -->
+<!-- PACE is a proven financial tool established by Texas legislation. It allows property owners—including non-profits and houses of worship—to upgrade aging infrastructure without the burden of a traditional bank loan or a major capital campaign. -->
 
 ---
 

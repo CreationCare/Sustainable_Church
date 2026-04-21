@@ -39,7 +39,6 @@ website:
           - landscaping.qmd
           - sustainable-hospitality.qmd
           - sandbag-technique.qmd
-          - PACE.qmd
       - href: stories.qmd
         text: Stories
       - href: liturgy-for-planting.qmd

@@ -14,7 +14,7 @@ The source and reference for most of this material may be found in the Disaster 
 The first step in stewardship is understanding where we are most vulnerable. Risk is calculated by looking at the likelihood of an event combined with its potential severity. 
 
   - **Action:** Review our [Risk Matrices
-  Document](https://docs.google.com/document/d/13J6zdAVjQgFR1I6ipiEav8sraz2dnYFfEknxzNDn2BA/edit?usp=sharing)
+  Document](https://docs.google.com/document/d/13J6zdAVjQgFR1I6ipiEav8sraz2dnYFfEknxzNDn2BA/)
   to see the initial estimates calculated by the Task Force. These prioritize
   which threats require our immediate attention. 
 
@@ -30,14 +30,14 @@ Select a category below to view specific hardening recommendations:
 | [Cold & Freezing](cold.html) | [Flooding & Drainage](flooding-drainage.html) | [Wind & Storm Safety](wind.html) |
 | [Hail Protection](hail.html) | [Lightning Protection](lightning.html) | [Power Outage Backup](power-outages.html) | 
 
-### 3. Budget & Resource Allocation 
+<!-- ### 3. Budget & Resource Allocation  -->
 
-We prioritize adaptations that offer the greatest protection for the most people. This isn't just an expense; it is an investment in our future. 
+<!-- We prioritize adaptations that offer the greatest protection for the most people. This isn't just an expense; it is an investment in our future.  -->
 
-  - **Funding the Work:** 
-      - [PACE](PACE.html) is one potential source for funding the work.
+<!--   - **Funding the Work:**  -->
+<!--       - [PACE](PACE.html) is one potential source for funding the work. -->
 
-### 4. Implementation & Maintenance 
+### 3. Implementation & Maintenance 
 
 A plan only works if it is put into motion. Our final phase involves: 
 
