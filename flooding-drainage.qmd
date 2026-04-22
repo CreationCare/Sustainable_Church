@@ -20,7 +20,7 @@ Before implementing physical changes, we must understand the "lay of the land".
 For a variety of reasons, the FEMA flood maps are often too conservative. We 
 recommend treating the 100-year flood maps as if they were 30-year maps, and the 
 500-year maps as if they were 100-year maps. An alternative source of risk
-assessment comes from [First Street](https://firststreet.org/methodology/flood?redirect=true&utm_term=first%20street%20flood%20map).
+assessment comes from [First Street](https://firststreet.org/).
 :::
 
   - **Historical Data:** Consult local archives to find the "high-water mark" of the last major local flood.
@@ -89,5 +89,5 @@ Hardening is only half the battle; we must be ready to act when a "Watch" or "Wa
 ## 📂 Technical Resources
 
   - [FEMA P-348: Protecting Building Utility Systems](https://www.fema.gov/sites/default/files/2020-07/fema_p-348_protecting_building_utility_systems_from_flood_damage_2017.pdf) – The definitive guide for utility hardening.
-  - [The Silver Jackets](https://silverjackets.nfrmp.us/) – State-led interagency teams that can provide local flood risk data.
+  - [The Silver Jackets](https://www.iwr.usace.army.mil/Silver-Jackets/) – State-led interagency teams that can provide local flood risk data.
   - [**How to Use Sandbags**](sandbag-technique.html) - brief guide on sand-bagging tech.
