@@ -1,0 +1,96 @@
+---
+title: "Smart Thermostats & Demand Response"
+subtitle: "Grid Resilience and Reward Programs for Texas Residents"
+---
+
+## Managing Peak Demand
+
+Smart thermostat programs are a key component of mitigation strategy. By allowing minor temperature adjustments during peak load, residents can earn rewards while reducing the overall stress on the Texas electrical grid.
+
+------------------------------------------------------------------------
+
+## Rewards for Control (REPs)
+
+:::::::: grid
+::: {.g-col-12 .g-col-md-6}
+### [TXU Energy: Connected Conservation](https://www.txu.com/campaigns/connected-conservation-program)
+
+TXU offers a significant incentive of up to **\$150 in rewards** for enrolling an eligible smart thermostat. During conservation events, TXU remotely adjusts your temperature by a few degrees to lower grid demand. Participants can choose between gift cards, prepaid cards, or triple-value rewards for energy-efficient products.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Octopus Energy: Virtual Power Plant](https://octopus.energy/press/more-news-press-releases/45-million-cuppas-scots-power-the-worlds-largest-virtual-power-plant/)
+
+Octopus leverages its "Kraken" platform to manage a **Virtual Power Plant (VPP)**, allowing customers on smart tariffs to save on annual bills by shifting usage to off-peak hours. By integrating smart thermostats and EVs, they reward users for helping to soak up clean energy when it’s abundant and reducing reliance on fossil fuels during peaks.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [OhmConnect Energy: Save Energy Get Paid](https://www.ohmconnect.com/promotions/saveenergygetpaid/)
+
+OhmConnect pays customers to save energy for about one hour a week during "OhmHours"—typically between 5–9 p.m. when demand is high and solar supply drops. Users earn **cash rewards and prizes** by manually or automatically reducing their load, helping the grid avoid turning on expensive and dirty "peaker" power plants.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### [Payless Power: Smart Integrations](https://paylesspower.com/blog/smart-home-power-management-prepaid-electricity-save-more-on-your-bill/)
+
+Focused on flexibility, Payless Power integrates with smart home systems to provide **real-time usage alerts**. By pairing prepaid plans with smart thermostats, users can track their balance daily and adjust their HVAC settings automatically to stay within budget, avoiding the surprise bills common in high-use Texas summers.
+:::
+
+::: g-col-12
+### [Smart Savers Texas (EnergyHub)](https://support.vivint.com/article/EnergyHub-Program-General-Information)
+
+Managed by EnergyHub and utilized by providers like Vivint and others, this program runs from June to September. Participants allow temperature adjustments of up to 4°F during peak demand and are rewarded with entries into a **sweepstakes for free electricity for a year** (up to \$5,000 value).
+:::
+::::::::
+
+------------------------------------------------------------------------
+
+## Upfront Incentives (Utility/TDU Rebates)
+
+:::::: grid
+::: {.g-col-12 .g-col-md-4}
+### [Oncor](https://www.oncor.com/content/oncorwww/wire/en/home/energy-efficiency/oncor-offers-store-savings--coupons-on-energy-smart-products.html)
+
+Oncor provides **instant coupons and discounts up to \$65** on over a dozen models of smart thermostats through their retail products program. These are typically available at the point-of-sale at participating retailers or via smartsavingstx.com.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [AEP Texas](https://www.thermostatrewards.com/aep-texas-byod/)
+
+The "Bring Your Own Device" (BYOD) program offers a **one-time \$30 e-gift card** for enrolling an eligible thermostat. To encourage long-term participation, AEP also provides an **annual \$15 incentive** for every year you remain active in the program.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### [CenterPoint Energy](https://www.centerpointenergy.com/en-us/residential/customer-service/welcome-new-customers/save-energy?sa=MS)
+
+CenterPoint offers residential customers **instant rebates of \$75** when purchasing select smart thermostats through their online marketplace. All that's required is a valid CenterPoint account number to claim the upfront savings.
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## Hardware-Inclusive Plans
+
+::: callout-note
+### [Gexa Energy: Free Thermostat Plans](https://www.gexaenergy.com/residential/electricity-plans/energy-saver/energy-saver-faqs)
+
+The Gexa Energy Saver plans include up to **two FREE Sensi™ Touch smart thermostats** (valued at \$169 each) plus **free professional installation**. In exchange, Gexa remotely adjusts temperatures during peak grid periods to optimize usage, though users always maintain the ability to override these settings.
+:::
+
+------------------------------------------------------------------------
+
+## Technical Overview: How it Works
+
+These programs typically allow the provider to increase your AC temperature by a few degrees during peak energy demand (typically **June–September, 1 p.m. to 7 p.m.**).
+
+-   **Flexibility:** Users can usually opt-out of specific events.
+-   **Grid Impact:** Reducing individual demand during these windows prevents localized outages and reduces the need for "peaker" plants.
+-   **Verification:** Before signing up, check your Retail Electric Provider (REP) website for "demand response" or your local TDU (Oncor, AEP, CenterPoint) for hardware rebates.
+
+------------------------------------------------------------------------
+
+::: column-margin
+### Pro-Tip
+
+Combine these programs with native shade trees and improved insulation to maximize comfort during demand response events.
+:::

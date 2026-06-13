@@ -1,0 +1,55 @@
+---
+title: "General Climate Resources <img src='images/Resources.png' style='vertical-align: middle; height: 150px;'>"
+subtitle: "Staying informed on climate science, politics, and economics"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+These resources are curated for staying up-to-date with the latest
+developments in climate change, covering the scientific, political, and
+economic landscapes.
+
+## Websites
+
+- [**Yale Climate Connections**](https://yaleclimateconnections.org/) A
+  nonpartisan news service helping the public understand the reality of
+  climate change and actionable solutions. Staffed by professional
+  journalists, meteorologists, and producers, this initiative is part of
+  the Yale Center for Environmental Communication at the Yale School of
+  the Environment.
+
+- [**Project Drawdown**](https://drawdown.org) An independent nonprofit
+  organization driving bold, science-based climate action to help the
+  world reach "drawdown"—the point in the future when levels of
+  greenhouse gases in the atmosphere stop climbing and start to steadily
+  decline.
+
+## Newsletters and Blogs
+
+- [**Katharine Hayhoe**](https://katharinehayhoe.com/) Dr. Katharine
+  Hayhoe is the Chief Scientist for The Nature Conservancy and a
+  professor at Texas Tech University. Her work focuses on assessing the
+  regional impacts of climate change. She is also the co-author of *A
+  Climate for Change: Global Warming Facts for Faith-Based Decisions*, a
+  book designed to untangle complex science for faith-based audiences.
+
+- [**The Climate Brink**](https://substack.com/@theclimatebrink) **–
+  Andrew Dessler** A newsletter by Dr. Andrew Dessler, a professor of
+  Atmospheric Sciences at Texas A&M University. He is the author of the
+  textbook *Introduction to Modern Climate Change* and provides deep,
+  expert insights into current climate policy and science.
+
+- [**Climate Uncensored**](https://jimehansen.substack.com/) **– Dr.
+  James E. Hansen** Dr. Hansen is the Director of Climate Science,
+  Awareness and Solutions at Columbia University and the former Director
+  of the NASA Goddard Institute for Space Studies. Known for his
+  pioneering role in climate science advocacy, his newsletter offers
+  direct and often urgent perspectives on the climate crisis.
+
+- [**Climate Cafe**](https://climatecafe.substack.com/) A collaborative
+  effort by natural and social scientists. This newsletter focuses on
+  the intersection of climate analysis and communication, aiming to keep
+  the urgency of the crisis and its potential solutions at the forefront
+  of public discourse.

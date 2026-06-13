@@ -1,0 +1,105 @@
+---
+title: "Going Solar <img src='images/Sun.png' style='vertical-align: middle; height: 150px;'>"
+format: html
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 1. Energy audit
+
+![](images/Clipboard.png){width=15%}
+
+**The "greenest" kilowatt-hour is the one you never use.**
+
+Before investing in solar panels, doing an [energy
+audit](https://creationcare.github.io/Sustainable_Church/energy-audit.html)
+can significantly reduce your electricity usage, and lead to designing a
+smaller, more affordable system.
+
+## 2. Who do you call?
+
+![](images/SUN-Logo-Gradient.png){width=35%}
+
+To find reputable solar companies in your area, contact [Solar United
+Neighbors](https://solarunitedneighbors.org/ready-set-solar/nonprofits/).
+They are a non-profit committed to helping people find the right
+companies to do their solar panel analysis and installation.
+
+## 3. Groundwork
+
+![](images/Groundwork.png){width=25%}
+
+To begin the analysis, you will need the following:
+
+1.  12 months worth of electric bills. This will be the basis for
+    analyzing potential savings, and will also allow you to assess the
+    accuracy of the model used to determine savings.
+
+2.  Does your local utility offer or allow "net metering" of some sort?
+    This can have a large impact on the size of the system you should build.
+
+    For example, TXU, Green Mountain, Octopus, Reliant, and Gexa are
+    some of the larger providers that have some sort of power buyback
+    program - though all are different. Austin Energy provides true 1:1
+    net metering. If you are served by a co-op, then your choices may be
+    very limited.
+
+3.  Consider what a suitable location for solar panels might be. The
+    ideal location is a sloped roof of about 20 degrees, facing south;
+    but a flat roof, or a roof whose slope faces some other direction
+    can also be used. A ground mounted system is also feasible, if there
+    is sufficient land to place it on. For perhaps 50% more up-front
+    expense, a parking lot could be covered. The location should see
+    little to no shade during the day, especially around mid-day.
+
+4.  If you have "smart meters", then you should be able to download
+    usage data for every 15 minutes, which can tell you a lot more about
+    how your usage peaks and the potential for savings. Learn more at
+    the [Smart Meter](https://www.smartmetertexas.com/home) website.
+    
+##  4. Working with a contractor
+
+![](images/Contractor.png){width=25%}
+
+If net metering is not available for you, then make certain that the design your 
+contractor develops does not produce more power than the maximum usage you have
+seen during the year. This is where the 15 minute usage data can become 
+extremely useful.
+
+Ask how the usage information was factored into the analysis. For many, the 
+highest usage should be on Sundays, with lower usage during the week, unless
+you have a school or other weekday usage. With net metering, there is a real
+opportunity to sell power during the week.
+
+In calculating the economics, a key input is how much electric rates are
+expected to rise over the life of the system - which should be about 25 years.
+Based on the projections from 
+[TEPRI](https://tepri.org/2025/12/affordabilitypaper/), a reasonable projection
+is for rates to increase by one &#162; per kWh for about 10 years, and then stay
+flat. 
+
+## 5. Financials
+![](images/Sun_dollars.png){width=25%}
+
+### Economics of the installation
+
+When the plan is done, it should have an undiscounted payback period of less 
+than 12-15 years, and hopefully quite a bit lower than that. You should also
+qualify for the 30% "direct pay" incentive payments from the IRS for a 
+non-profit. Similarly, the ROI (Return On Investment) should be greater than
+about 5%, and perhaps even into double digits.
+
+### Financing
+
+The Diocese generally tries to discourage congregations from acquiring loans
+that put a lien on the church property, so that avenue is probably not feasible.
+However, there are opportunities for financing where the lien is placed on the 
+solar panels themselves, and that is entirely acceptable. (I need a reference here)
+
+
+
+
+
+
+
