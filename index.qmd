@@ -67,6 +67,9 @@ waste.
 * [Keep Texas Beautiful](https://ktb.org/): An organization dedicated to litter
 cleanup, with guides for group activities and other resources.
 
+* [Climate Change Resources](Climate_resources.qmd): A collection of websites,
+blogs, and newsletters concerned with climnate change.
+
 *For more information, contact  
 [Sustainable Church Task Force](mailto:faithinthefuture@epicenter.org)
 .*

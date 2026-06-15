@@ -32,6 +32,7 @@ website:
       - text: "Technical Tools"
         menu:
           - energy-audit.qmd
+          - Going_solar.qmd
           - water-audit.qmd
           - waste-audit.qmd
           - toilets-faucets.qmd

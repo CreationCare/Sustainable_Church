@@ -87,7 +87,8 @@ the environment.
 
   - **HVAC Modernization:** Replace end-of-life heating and cooling systems with
   the highest-efficiency equipment available. 
-  - **Renewable Energy:** Install a solar array to generate clean power on-site. 
+  - **Renewable Energy:** [Install a solar array](Going_solar.qmd) 
+  to generate clean power on-site. 
   - **Water Stewardship:** Install rainwater cisterns or graywater systems for
   landscape needs. 
   - **Clean Transportation:** Install EV charging stations to support the

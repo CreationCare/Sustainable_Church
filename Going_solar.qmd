@@ -1,10 +1,16 @@
 ---
-title: "Going Solar <img src='images/Sun.png' style='vertical-align: middle; height: 150px;'>"
+title: "Going Solar"
 format: html
 editor: 
   markdown: 
     wrap: 72
 ---
+
+::: {style="text-align: left;"}
+![](images/Sun.png){width="50%"}
+:::
+
+<!-- title: "Going Solar <img src='images/Sun.png' style='vertical-align: middle; height: 150px;'>" -->
 
 ## 1. Energy audit
 

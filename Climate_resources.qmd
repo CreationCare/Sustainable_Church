@@ -1,11 +1,15 @@
 ---
-title: "General Climate Resources <img src='images/Resources.png' style='vertical-align: middle; height: 150px;'>"
+title: "General Climate Resources"
 subtitle: "Staying informed on climate science, politics, and economics"
 format: html
 editor: 
   markdown: 
     wrap: 72
 ---
+
+::: {style="text-align: left;"}
+![](images/Resources.png){width="50%"}
+:::
 
 These resources are curated for staying up-to-date with the latest
 developments in climate change, covering the scientific, political, and
@@ -53,3 +57,9 @@ economic landscapes.
   the intersection of climate analysis and communication, aiming to keep
   the urgency of the crisis and its potential solutions at the forefront
   of public discourse.
+
+- [**Heatmap News**](https://heatmap.news/) Heatmap News is climate news
+  for the real world. We tell the inside story of the race to fix the
+  planet, with deep reporting on emerging decarbonization trends, like
+  electric vehicles, clean hydrogen, and carbon capture, in addition to
+  climate change and its impact on our economy, politics, and society.
