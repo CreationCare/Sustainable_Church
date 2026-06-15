@@ -5,6 +5,8 @@ execute:
   freeze: auto
 website:
   title: "Creation Care Task Force"
+  page-footer:
+    center: "© 2026 EDoT Sustainable Church and Creation Care Taskforce. Built with [Quarto](https://quarto.org/)."
   favicon: "images/favicon.ico"
   navbar:
     background: primary
