@@ -6,45 +6,70 @@ format: html
 
 ## Overview
 
-This guide synthesizes current utility-based financing programs, rebates, and technical assistance initiatives found in your records. These resources are critical for reducing local heat islands and improving building efficiency.
+This guide synthesizes current utility-based financing programs, rebates, and
+technical assistance initiatives. found in your records. These resources can
+help make mitigation improvements more affordable.
 
----
+------------------------------------------------------------------------
 
-##  Utility based rebate programs
+## Utility based rebate programs
 
 ### [CenterPoint Energy: SCORE & CitySmart](https://www.centerpointenergy.com/en-us/SaveEnergyandMoney/Pages/Schools-and-Non-Profit-Efficiency-Program.aspx?sa=ho&au=bus)
-**Primary Focus:** Schools & Government Entities  
-The SCORE and CitySmart programs provide energy management and technical assistance. They support benchmarking and the development of long-term **Energy Master Plans**, awarding cash incentives based on peak demand savings for lighting and HVAC upgrades.
 
-Focuses on high-impact upgrades to lower local energy demand and reduce the strain on the grid during peak heat events.
+**Primary Focus:** Schools & Government Entities\
+The SCORE and CitySmart programs provide energy management and technical
+assistance. They support benchmarking and the development of long-term **Energy
+Master Plans**, awarding cash incentives based on peak demand savings for
+lighting and HVAC upgrades.
+
+Focuses on high-impact upgrades to lower local energy demand and reduce the
+strain on the grid during peak heat events.
 
 ### [Oncor: Schools & Non-Profit Program](https://www.oncor.com/content/oncorwww/talot/en/home/business/schools.html)
-**Primary Focus:** Educational & Non-Profit Infrastructure  
-Oncor offers tailored support to help educational and non-profit organizations lower their operating costs. This includes assistance in creating an Energy Master Plan and financial incentives for measures like high-efficiency HVAC, roofing, and solar installations.
+
+**Primary Focus:** Educational & Non-Profit Infrastructure\
+Oncor offers tailored support to help educational and non-profit organizations
+lower their operating costs. This includes assistance in creating an Energy
+Master Plan and financial incentives for measures like high-efficiency HVAC,
+roofing, and solar installations.
 
 ### [Entergy Texas: Commercial Solutions](https://entergytexassolutions.com/eti/commercial-solutions/)
-**Primary Focus:** Business & Non-Profit Retrofits  
-Provides no-cost resources to identify and implement energy-saving improvements. This program includes personalized energy assessments and cash incentives for both new construction and retrofits for items like chillers and LED lighting.
+
+**Primary Focus:** Business & Non-Profit Retrofits\
+Provides no-cost resources to identify and implement energy-saving improvements.
+This program includes personalized energy assessments and cash incentives for
+both new construction and retrofits for items like chillers and LED lighting.
 
 ### [Tri-County Electric Cooperative (TCEC): Energy Efficiency Rebates](https://www.tcectexas.com/energy-efficiency-rebates)
-**Primary Focus:** Member Rebates & Heat Pumps  
-TCEC provides member-focused rebates to reduce energy consumption. Incentives are offered as bill credits for heat pump tune-ups or the installation of high-efficiency (SEER 16+) HVAC systems and Energy Star certified products.
+
+**Primary Focus:** Member Rebates & Heat Pumps\
+TCEC provides member-focused rebates to reduce energy consumption. Incentives
+are offered as bill credits for heat pump tune-ups or the installation of
+high-efficiency (SEER 16+) HVAC systems and Energy Star certified products.
 
 ### [Heart of Texas Electric Cooperative (HOTEC): Member Rebates](https://hotec.coop/rebates/)
-**Primary Focus:** Residential & Small Commercial  
-Encourages conservation through rebates for ceiling insulation, HVAC audits, high-efficiency water heaters, and solar installations. Members can also receive immediate benefits like free LED bulbs.
+
+**Primary Focus:** Residential & Small Commercial\
+Encourages conservation through rebates for ceiling insulation, HVAC audits,
+high-efficiency water heaters, and solar installations. Members can also receive
+immediate benefits like free LED bulbs.
 
 ### [Austin Energy: Commercial Offerings](https://austinenergy.com/energy-efficiency/rebates-incentives/residential)
-**Primary Focus:** Comprehensive Urban Efficiency  
-Provides an extensive suite of over 20 commercial rebate options, including HVAC replacements, reflective roof coatings, and EV charging infrastructure. Small businesses can also access bundles for lighting and smart thermostats.
+
+**Primary Focus:** Comprehensive Urban Efficiency\
+Provides an extensive suite of over 20 commercial rebate options, including HVAC
+replacements, reflective roof coatings, and EV charging infrastructure. Small
+businesses can also access bundles for lighting and smart thermostats.
 
 <!-- --- -->
 
 <!-- ##  PACE -->
 
 <!-- ### [Property Assessed Clean Energy (TX-PACE)](PACE.html)  -->
+
 <!-- PACE is a proven financial tool established by Texas legislation. It allows property owners—including non-profits and houses of worship—to upgrade aging infrastructure without the burden of a traditional bank loan or a major capital campaign. -->
 
----
+------------------------------------------------------------------------
 
-**Note:** Always verify current rebate levels and application deadlines directly via the provided links before beginning a project.
+**Note:** Always verify current rebate levels and application deadlines directly
+via the provided links before beginning a project.
