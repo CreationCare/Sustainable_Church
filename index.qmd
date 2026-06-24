@@ -74,7 +74,7 @@ waste.
 cleanup, with guides for group activities and other resources.
 
 * [Climate Change Resources](Climate_resources.qmd): A collection of websites,
-blogs, and newsletters concerned with climnate change.
+blogs, and newsletters concerned with climate change.
 
 *For more information, contact  
 [Sustainable Church Task Force](mailto:faithinthefuture@epicenter.org)

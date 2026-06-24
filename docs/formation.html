@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.39">
+<meta name="generator" content="quarto-1.5.56">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-b852049ba1223c8a1e386cd2a5026956.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -173,6 +173,10 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Energy Audits</span></a>
   </li>  
         <li>
+    <a class="dropdown-item" href="./Going_solar.html">
+ <span class="dropdown-text">Going Solar</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="./water-audit.html">
  <span class="dropdown-text">Water Audit Resources</span></a>
   </li>  
@@ -207,6 +211,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Stories</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./Prayers.html"> 
+<span class="menu-text">Prayers</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./liturgy-for-planting.html"> 
 <span class="menu-text">Liturgy</span></a>
   </li>  
@@ -236,6 +244,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#the-role-of-the-silent-believers" id="toc-the-role-of-the-silent-believers" class="nav-link" data-scroll-target="#the-role-of-the-silent-believers">2. The Role of the “Silent Believers”</a></li>
   <li><a href="#formation-resources" id="toc-formation-resources" class="nav-link" data-scroll-target="#formation-resources">3. Formation Resources</a>
   <ul class="collapse">
+  <li><a href="#prayers" id="toc-prayers" class="nav-link" data-scroll-target="#prayers">🙏 Prayers</a></li>
   <li><a href="#leadership-clergy" id="toc-leadership-clergy" class="nav-link" data-scroll-target="#leadership-clergy">🏛️ Leadership &amp; Clergy</a></li>
   <li><a href="#children-youth" id="toc-children-youth" class="nav-link" data-scroll-target="#children-youth">👧 Children &amp; Youth</a></li>
   <li><a href="#community-learning" id="toc-community-learning" class="nav-link" data-scroll-target="#community-learning">📚 Community Learning</a></li>
@@ -296,6 +305,12 @@ ul.task-list li input[type="checkbox"] {
 <section id="formation-resources" class="level2">
 <h2 class="anchored" data-anchor-id="formation-resources">3. Formation Resources</h2>
 <p>We have curated a library of tools to help your congregation engage with Creation Theology at every level.</p>
+<section id="prayers" class="level3">
+<h3 class="anchored" data-anchor-id="prayers">🙏 Prayers</h3>
+<ul>
+<li><strong>Prayers for Creation</strong> <a href="Prayers.html">Collected prayers</a> from various sources.</li>
+</ul>
+</section>
 <section id="leadership-clergy" class="level3">
 <h3 class="anchored" data-anchor-id="leadership-clergy">🏛️ Leadership &amp; Clergy</h3>
 <ul>
@@ -415,6 +430,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -532,6 +549,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -758,6 +776,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>© 2026 EDoT Sustainable Church and Creation Care Taskforce. Built with <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

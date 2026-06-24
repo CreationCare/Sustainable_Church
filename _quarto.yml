@@ -44,6 +44,8 @@ website:
           - sandbag-technique.qmd
       - href: stories.qmd
         text: Stories
+      - href: Prayers.qmd
+        text: Prayers
       - href: liturgy-for-planting.qmd
         text: Liturgy
       - href: about.qmd

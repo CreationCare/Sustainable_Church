@@ -37,6 +37,10 @@ We strive to encourage our clergy to actively help create a space where faith an
 
 We have curated a library of tools to help your congregation engage with Creation Theology at every level. 
 
+### 🙏 Prayers
+
+  - **Prayers for Creation** [Collected prayers](Prayers.html) from various sources.
+
 ### 🏛️ Leadership & Clergy
 
   - **Preaching Creation:** Homiletic resources for integrating stewardship into the liturgical year. 
